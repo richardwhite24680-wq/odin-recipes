@@ -5,15 +5,20 @@
 }
 
 body {
-    font-family: 'Arial', sans-serif;
     line-height: 1.6;
     padding: 20px;
 }
 
 .Homepage p {
     color: #4A3728;
+    text-indent: 20px;
 }
 
 .Homepage h1 {
     color: chocolate;
+}
+
+.image img {
+    width: 100%;
+    border-radius: 10px;
 }
