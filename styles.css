@@ -22,3 +22,21 @@ body {
     width: 100%;
     border-radius: 10px;
 }
+
+.lasagna h1,
+.lasagna h2,
+.pizza h1,
+.pizza h2,
+.pizza h3,
+.burger h1,
+.burger h2 {
+    color: chocolate;
+}
+
+.lasagna img,
+.pizza img,
+.burger img {
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
